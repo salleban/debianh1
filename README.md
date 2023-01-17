@@ -14,4 +14,9 @@ Tämän jälkeen tarkistetaan, että tiedosto polut on samat ylimmässä ja alim
 
 ## Debian käynnistys
 
-Debian käynnistyy ja tässä saattaa kestää tovi. 
+Ennen Debianin käynnistystä pitää mennä Settings -> Storage ja valita tämän jälkeen Storage Devices -> Controller: IDE ja valitaan Debian-live-11.6.0... ja tämän jälkeen lisätään Attributes kohtaan Optical Drive ja painetaan vetovalikon päässä olevasta cd painikkeesta oikea optinen asema. Sitten painetaan OK ja käynnistetään Debian. 
+
+## Debian aloitus
+
+Käynnistyttyään valitaan Debian GNU/Linux Live (kernel 5.10.0-20-amd64) (paina enter). Tässä menee hetki ennenkuin pääsee jatkamaan. 
+
