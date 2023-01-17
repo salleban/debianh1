@@ -18,5 +18,5 @@ Ennen Debianin käynnistystä pitää mennä Settings -> Storage ja valita täm�
 
 ## Debian aloitus
 
-Käynnistyttyään valitaan Debian GNU/Linux Live (kernel 5.10.0-20-amd64) (paina enter). Tässä menee hetki ennenkuin pääsee jatkamaan. 
+Käynnistyttyään valitaan Debian GNU/Linux Live (kernel 5.10.0-20-amd64) (paina enter). Tässä menee hetki ennenkuin pääsee jatkamaan. Valittuani Debian GNU/Linux Live (kernel 5.10.0-20-amd64) ilmestyy ruutuun Debian logo, jonka ympärillä pyörii hiljakseen valkoinen kehä. Tämän jälkeen ruutu menee mustaksi, ja hetken kuluttua ilmestyy tekstiä missä ilmenee "Error, failed to send host...".
 
