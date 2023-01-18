@@ -50,4 +50,3 @@ Asentelun jälkeen ruutuun pamahtaa teksti All done. Valitaan rasti ruutuun Rest
 
 Näin on saatu valmiiksi Debianin asennus VirtualBoxiin. Alun takkuilun jälkeen asennus oli äärimmäisen helppo. Mikäli ongelmia tulee, kannattaa hetkeksi pysähtyä ja miettiä vaihtoehtoisia ratkaisuja ongelmiin, näin kävi minun tapauksessani.
 
-
